@@ -280,7 +280,7 @@ body {
   
   .process-p{
     color: #000;
-    font-family: YuGothic;
+    /* font-family: YuGothic; */
     font-size: 24px;
     font-style: normal;
     font-weight: 700;
